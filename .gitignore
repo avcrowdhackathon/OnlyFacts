@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+news-judge/node_modules
+news-judge/.pnp
+news-judge/.pnp.js
+
+# testing
+news-judge/coverage
+
+# production
+news-judge/build
+
+# misc
+news-judge/.DS_Store
+news-judge/.env.local
+news-judge/.env.development.local
+news-judge/.env.test.local
+news-judge/.env.production.local
+
+news-judge/npm-debug.log*
+news-judge/yarn-debug.log*
+news-judge/yarn-error.log*
