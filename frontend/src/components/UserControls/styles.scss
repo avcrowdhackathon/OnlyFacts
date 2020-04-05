@@ -1,0 +1,28 @@
+.user-control-btn {
+    height: 32px;
+    width: 80px;
+    color: white;
+    padding: 8px 8px;
+    border: none;
+    border-radius: 4px;
+    cursor:  pointer;
+    &:first-child {
+        margin-right: 8px;
+    }
+    
+}
+.agree {
+    background: #00c853;
+    &:hover {
+        background: #009624;
+    }
+}
+
+.disagree {
+    background: #d50000;
+    &:hover {
+        background:#9b0000
+
+        ;
+    }
+}

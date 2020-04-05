@@ -1,0 +1,18 @@
+.pills-container {
+    display: flex;
+}
+
+.pill {
+    background: #0064b7;
+    color: white;
+    border-radius: 18px;
+    width: 100px;
+    height: 25px;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    &:not(:last-child) {
+        margin-right: 8px;
+    }
+}
