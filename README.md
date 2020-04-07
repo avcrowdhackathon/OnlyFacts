@@ -2,4 +2,5 @@
 TID: 22
 Prototype of a news platform with sentiment analysis in greek language 
 
-!(dashboard.PNG)
+![Image description](dashboard.png)
+
